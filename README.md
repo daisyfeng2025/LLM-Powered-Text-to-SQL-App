@@ -4,7 +4,7 @@ This project is an interactive AI-powered SQL assistant built using **Google Gem
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - Ask questions in plain English — get instant SQL answers
 - Uses `gemini-1.5-pro-latest` for text generation
@@ -26,5 +26,5 @@ This project is an interactive AI-powered SQL assistant built using **Google Gem
 
 ## Example Use Cases
 
-"How many students are in the database?" → SELECT COUNT(*) FROM STUDENT;
-"List all students in the Data Science class." → SELECT * FROM STUDENT WHERE CLASS = 'Data Science';
+- "How many students are in the database?" → SELECT COUNT(*) FROM STUDENT;
+- "List all students in the Data Science class." → SELECT * FROM STUDENT WHERE CLASS = 'Data Science';
